@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/WagnerNasc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerNasc&show_icons=true&theme=dark">
-  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerNasc&layout=compact&theme=dark"
+  <a href="https://github.com/WagnerNasc"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerNasc&theme=dark&show_icons=true"/> -->
+  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerNasc&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
