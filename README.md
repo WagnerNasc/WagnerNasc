@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/WagnerNasc"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerNasc&theme=dark&show_icons=true"/> -->
   <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerNasc&layout=compact&theme=dark"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wag-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+</div> -->
 
 ##
 <div> 
